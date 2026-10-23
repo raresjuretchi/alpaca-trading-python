@@ -52,7 +52,7 @@ The signal logic is pure Python and the clients are faked, so the tests run offl
 A scheduled workflow checks the pinned dependencies once a week at a random time, bumps them when the tests still pass and records the result in [MAINTENANCE.md](MAINTENANCE.md).
 
 <!-- maintenance:start -->
-**Last maintenance:** not run yet
+**Last maintenance:** 2026-10-23 · All 3 pinned packages current · tests ✅ 14 passed, 1 warning
 <!-- maintenance:end -->
 
 ## License
